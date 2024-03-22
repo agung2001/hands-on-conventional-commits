@@ -2,6 +2,11 @@
 
 Conventional Commits is a specification for structuring commit messages in software development. It defines a standard format for writing commit messages that convey meaningful information about the nature of the changes introduced in each commit. The goal of Conventional Commits is to provide a consistent and standardized way of documenting changes to codebases, making it easier for developers to understand and collaborate on projects.
 
+## Installation
+
+1. Install pnpm and run `pnpm install`
+2. Run `pnpm run changelog` to generate a changelog
+
 ## Resource
 - [Conventional Commits Official Guide](https://www.conventionalcommits.org/en/v1.0.0/)
     - [GitHub - conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org)
