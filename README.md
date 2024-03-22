@@ -1,3 +1,5 @@
+[![Watch the video](https://img.youtube.com/vi/TudmCr2OE2E/maxresdefault.jpg)](https://www.youtube.com/watch?v=TudmCr2OE2E)
+
 # Conventional Commits
 
 Conventional Commits is a specification for structuring commit messages in software development. It defines a standard format for writing commit messages that convey meaningful information about the nature of the changes introduced in each commit. The goal of Conventional Commits is to provide a consistent and standardized way of documenting changes to codebases, making it easier for developers to understand and collaborate on projects.
